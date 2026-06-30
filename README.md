@@ -1,0 +1,2 @@
+# 8e96d33def116e1b-dental-practice-vendor-managem
+The dental practice tool you'd build yourself — if you had the time.  Ready to use immediately — open, fill in your details, done. Fully editable: every field, color, and section customizable.  ## What's Included  - Dental Practice Vendor Management And Procurement — fully configured and ready to use - Fully editable: all fields, colors, and sectio
